@@ -10,4 +10,3 @@ while N > 0:
 if negatif:
     akhir = -akhir
 print(akhir)
-import math
